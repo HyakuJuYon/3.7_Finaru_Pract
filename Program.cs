@@ -21,6 +21,8 @@ namespace _3._7_Finaru_Pract
             var birthdate = Console.ReadLine();
 
             Console.WriteLine("You were born on: {0}", birthdate);
+
+            Console.ReadKey();
         }
     }
 }
